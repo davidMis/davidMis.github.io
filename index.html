@@ -22,7 +22,10 @@
     .container {
         margin: auto;
         width: fit-content;
-        background: white;
+        width: intrinsic;           /* Safari/WebKit uses a non-standard name */
+        width: -moz-max-content;    /* Firefox/Gecko */
+        width: -webkit-max-content; /* Chrome */
+	background: white;
         box-shadow: 0px 0px 5px grey;
     }
 
