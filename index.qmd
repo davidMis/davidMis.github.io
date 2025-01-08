@@ -93,7 +93,7 @@ Grader:
     [Differential Equations for Science and Engineering]{.lst}  
     [Partial Differential Equations I]{.lst}   
     [Applied Functional Analysis]{.lst}  
-    [Nuerical Analysis]{.lst}  
+    [Numerical Analysis]{.lst}  
 Graduate Teaching Assistant:  
     [Matrix Analysis]{.lst}
 
