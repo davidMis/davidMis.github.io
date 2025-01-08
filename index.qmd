@@ -1,0 +1,143 @@
+---
+title: S David Mis
+subtitle: PhD Student
+description: | 
+  Department of Computational Applied Mathematics and Operations Research<br>
+  Rice University<br>
+  Houston, TX, USA<br>
+
+  [[[david.mis@rice.edu]{.underline}](mailto:david.mis@rice.edu)] &ensp; [[[CV]{.underline}](./files/DavidMis-CV.pdf)] &ensp; [[[GitHub]{.underline}](https://github.com/davidmis)] &ensp; [[[Google Scholar]{.underline}](https://scholar.google.com/citations?user=FeRZjBAAAAAJ&hl=en)]
+
+navbar: false
+about:
+  id: heading
+  template: solana
+  image: files/david.jpg
+  image-shape: round
+  image-width: 185px
+---
+
+:::{#heading}
+:::
+
+<!-- 
+## Research interests
+
+TODO
+-->
+
+## Education
+
+**Rice University**  
+PhD, *Computational and Applied Mathematics*  
+2021--present, Houston, TX, USA  
+Advised by Dr. Maarten de Hoop
+
+**University of Texas**   
+MS, *Computer Science*  
+2019--2021, Austin, TX, USA
+
+
+**University of Texas**   
+BS, *Computer Science*  
+BS, *Mathematics*  
+BA, *Economics and Chinese Language*    
+2009--2014, Austin, TX, USA
+
+## Publications
+
+### Preprints
+
+**Semialgebraic Neural Networks: From roots to representations**  
+[SD Mis]{.underline}, M Lassas, MV de Hoop  
+January 2025.  
+[[pdf](https://www.arxiv.org/pdf/2501.01564)]
+[[link](https://www.arxiv.org/abs/2501.01564)]
+<!-- [[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/MayerLuziSiahkoohiEtAl_2024.bib)] -->
+
+---
+
+### Journal papers
+
+**Reduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes**  
+TE Keller, [SD Mis]{.underline}, KE Jia, CO Wilke  
+*Genome Biology and Evolution*, Volume 4, Issue 2, 2012, Pages 80–88  
+[[pdf](https://academic.oup.com/gbe/article-pdf/4/2/80/17915831/evr129.pdf)]
+[[link](https://academic.oup.com/gbe/article/4/2/80/555289)]
+
+## Talks
+
+### Contributed Talks
+
+**Semialgebraic Neural Networks: From roots to representations**  
+[SD Mis]{.underline}, M Lassas, MV de Hoop  
+*Inverse Days*  
+December 2024, Oulu, Finland
+
+**Semialgebraic Neural Networks**  
+*Geo-Mathematical Imaging Group Partners Meeting*  
+November 2024, Rice University
+
+**Matrix-Recurrent and Semialgebraic Neural Networks**  
+*Geo-Mathematical Imaging Group Partners Meeting*  
+May 2023, Rice University
+
+## Professional Experience
+
+### Teaching
+
+**Rice University**  
+*Grader / Teaching Assistant*  
+2021--present, Houston, TX  
+Grader:  
+    [Differential Equations for Science and Engineering]{.lst}  
+    [Partial Differential Equations I]{.lst}   
+    [Applied Functional Analysis]{.lst}  
+    [Nuerical Analysis]{.lst}  
+Graduate Teaching Assistant:  
+    [Matrix Analysis]{.lst}
+
+**The Art of Problem Solving**  
+*Grader / Teaching Assistant*  
+2020--2021, Virtual  
+Various high school mathematics courses.
+
+**University of Texas**  
+*Undergraduate Teaching Assistant*  
+2011--2012, Austin, TX  
+Courses:  
+    [Computational Biology]{.lst}  
+    [Statistics for Biologists]{.lst} 
+
+---
+
+### Research
+
+**Rice University**  
+*PhD Research Assistant*  
+2022--present, Houston, TX  
+Geo-Mathematical Imaging Group (GMIG).
+
+**University of Texas**  
+*Undergraduate Research Assistant*  
+2010--2012, Austin, TX  
+Lab of Dr. Clause O. Wilke, Professor of Integrative Biology.
+
+---
+
+### Software Development
+
+**David Mis Software LLC**  
+*Software Developer*  
+2018--2021, Houston, TX  
+Independent software consultant. 
+
+**Unaliwear**  
+*Cloud Engineer*  
+2015--2018, Austin, TX  
+Principal architect of AWS infrastructure for consumer IOT device.
+
+**Hewlett Packard**  
+*Software Developer*  
+2014--2015, Austin, TX  
+Enterprise software development.

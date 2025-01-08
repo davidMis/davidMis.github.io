@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "S David Mis",
+    "section": "Education",
+    "text": "Education\nRice University\nPhD, Computational and Applied Mathematics\n2021–present, Houston, TX, USA\nAdvised by Dr. Maarten de Hoop\nUniversity of Texas\nMS, Computer Science\n2019–2021, Austin, TX, USA\nUniversity of Texas\nBS, Computer Science\nBS, Mathematics\nBA, Economics and Chinese Language\n2009–2014, Austin, TX, USA"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "S David Mis",
+    "section": "Publications",
+    "text": "Publications\n\nPreprints\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nJanuary 2025.\n[pdf] [link] \n\n\n\nJournal papers\nReduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes\nTE Keller, SD Mis, KE Jia, CO Wilke\nGenome Biology and Evolution, Volume 4, Issue 2, 2012, Pages 80–88\n[pdf] [link]"
+  },
+  {
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "S David Mis",
+    "section": "Talks",
+    "text": "Talks\n\nContributed Talks\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nInverse Days\nDecember 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNovember 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "S David Mis",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader:\nDifferential Equations for Science and Engineering\nPartial Differential Equations I\nApplied Functional Analysis\nNuerical Analysis\nGraduate Teaching Assistant:\nMatrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses.\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses:\nComputational Biology\nStatistics for Biologists\n\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG).\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology.\n\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant.\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device.\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development."
+  }
+]
