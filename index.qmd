@@ -12,7 +12,7 @@ navbar: false
 about:
   id: heading
   template: solana
-  image: files/david.jpg
+  image: files/david-small.jpg
   image-shape: round
   image-width: 185px
 ---
@@ -37,7 +37,6 @@ Advised by Dr. Maarten de Hoop
 MS, *Computer Science*  
 2019--2021, Austin, TX, USA
 
-
 **University of Texas**   
 BS, *Computer Science*  
 BS, *Mathematics*  
@@ -46,16 +45,19 @@ BA, *Economics and Chinese Language*
 
 ## Publications
 
-### Preprints
+<!-- ### Preprints -->
+
+<!-- --- -->
+
+### Conference papers
 
 **Semialgebraic Neural Networks: From roots to representations**  
 [SD Mis]{.underline}, M Lassas, MV de Hoop  
-January 2025.  
+*International Conference on Learned Representations (ICLR) 2025*  
+May 2025, Singapore  
 [[pdf](https://www.arxiv.org/pdf/2501.01564)]
-[[link](https://www.arxiv.org/abs/2501.01564)]
+[[link](https://iclr.cc/virtual/2025/poster/27662)]
 <!-- [[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/MayerLuziSiahkoohiEtAl_2024.bib)] -->
-
----
 
 ### Journal papers
 
@@ -65,9 +67,20 @@ TE Keller, [SD Mis]{.underline}, KE Jia, CO Wilke
 [[pdf](https://academic.oup.com/gbe/article-pdf/4/2/80/17915831/evr129.pdf)]
 [[link](https://academic.oup.com/gbe/article/4/2/80/555289)]
 
+### Theses
+
+**Semialgebraic Neural Networks: From roots to representations**  
+[SD Mis]{.underline}  
+Master's thesis  
+[[pdf](TODO)] 
+[[link](TODO)]  
+
 ## Talks
 
-### Contributed Talks
+<!-- **Interpretable and interactive learned regularizers for inverse problems**  
+[SD Mis]{.underline}, MV de Hoop  
+*Applied Inverse Problems (AIP) 2025*  
+July 2025, Rio de Janeiro, Brazil   -->
 
 **Semialgebraic Neural Networks: From roots to representations**  
 [SD Mis]{.underline}, M Lassas, MV de Hoop  
@@ -141,3 +154,11 @@ Principal architect of AWS infrastructure for consumer IOT device.
 *Software Developer*  
 2014--2015, Austin, TX  
 Enterprise software development.
+
+---
+
+### Mentorship
+
+**Rice Data2Knowledge Capstone Project Mentor**  
+NASA Orbital Transfer Project  
+Spring 2025
