@@ -56,8 +56,9 @@ BA, *Economics and Chinese Language*
 *International Conference on Learned Representations (ICLR) 2025*  
 May 2025, Singapore  
 [[pdf](https://www.arxiv.org/pdf/2501.01564)]
-[[link](https://iclr.cc/virtual/2025/poster/27662)]
-<!-- [[bib](https://raw.githubusercontent.com/alisiahkoohi/alisiahkoohi.github.io/master/files/MayerLuziSiahkoohiEtAl_2024.bib)] -->
+[[arxiv](https://www.arxiv.org/abs/2501.01564)]
+[[conference](https://iclr.cc/virtual/2025/poster/27662)]
+
 
 ### Journal papers
 
