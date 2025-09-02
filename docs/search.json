@@ -25,7 +25,7 @@
     "href": "index.html#talks",
     "title": "S David Mis",
     "section": "Talks",
-    "text": "Talks\n\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nInverse Days\nDecember 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNovember 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University"
+    "text": "Talks\nDiffeomorphism invariant measure flows in Bayes Hilbert spaces\nSD Mis, MV de Hoop\nApplied Inverse Problems (AIP) 2025\nJuly 2025, Rio de Janeiro, Brazil\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nInverse Days\nDecember 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNovember 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University"
   },
   {
     "objectID": "index.html#professional-experience",
@@ -33,5 +33,12 @@
     "title": "S David Mis",
     "section": "Professional Experience",
     "text": "Professional Experience\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader:\nDifferential Equations for Science and Engineering\nPartial Differential Equations I\nApplied Functional Analysis\nNumerical Analysis\nGraduate Teaching Assistant:\nMatrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses.\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses:\nComputational Biology\nStatistics for Biologists\n\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG).\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology.\n\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant.\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device.\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development.\n\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nNASA Orbital Transfer Project\nSpring 2025"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "S David Mis",
+    "section": "News",
+    "text": "News\nI will be presenting a poster at the CBMS Conference: Research at the Interface of Applied Mathematics and Machine Learning at the University of Houston from December 8–12, 2025.\nI am looking forward to Inverse Days in Helsinki, Finland, from December 16–18, 2025, where I will be giving a talk.\nI am organizing a minisymposium with Nick Boffi titled Measure flows for Inverse Problems and Machine Learning at the SIAM Conference on Uncertainty Quantification to be held in Minneapolis from March 22–26, 2026."
   }
 ]

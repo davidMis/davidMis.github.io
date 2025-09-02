@@ -26,6 +26,14 @@ about:
 TODO
 -->
 
+<!-- ## News -->
+
+<!-- I will be presenting a poster at the **CBMS Conference: Research at the Interface of Applied Mathematics and Machine Learning** at the University of Houston from December 8--12, 2025.
+
+I am looking forward to **Inverse Days** in Helsinki, Finland, from December 16--18, 2025, where I will be giving a talk.
+
+I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) titled *Measure flows for Inverse Problems and Machine Learning* at the **SIAM Conference on Uncertainty Quantification** to be held in Minneapolis from March 22--26, 2026. -->
+
 ## Education
 
 **Rice University**  
@@ -78,10 +86,10 @@ Master's thesis
 
 ## Talks
 
-<!-- **Interpretable and interactive learned regularizers for inverse problems**  
+**Diffeomorphism invariant measure flows in Bayes Hilbert spaces**  
 [SD Mis]{.underline}, MV de Hoop  
 *Applied Inverse Problems (AIP) 2025*  
-July 2025, Rio de Janeiro, Brazil   -->
+July 2025, Rio de Janeiro, Brazil  
 
 **Semialgebraic Neural Networks: From roots to representations**  
 [SD Mis]{.underline}, M Lassas, MV de Hoop  
