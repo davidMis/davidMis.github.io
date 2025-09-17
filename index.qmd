@@ -1,5 +1,5 @@
 ---
-title: S David Mis
+title: David Mis
 subtitle: PhD Student
 description: | 
   Department of Computational Applied Mathematics and Operations Research<br>
@@ -7,7 +7,6 @@ description: |
   Houston, TX, USA<br>
 
   [[[david.mis@rice.edu]{.underline}](mailto:david.mis@rice.edu)] &ensp; [[[CV]{.underline}](./files/DavidMis-CV.pdf)] &ensp; [[[GitHub]{.underline}](https://github.com/davidmis)] &ensp; [[[Google Scholar]{.underline}](https://scholar.google.com/citations?user=FeRZjBAAAAAJ&hl=en)]
-
 navbar: false
 about:
   id: heading
@@ -15,6 +14,45 @@ about:
   image: files/david-small.jpg
   image-shape: round
   image-width: 185px
+include-in-header:
+  text: |
+    <!-- Put this on the HOME page once -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "url": "https://davidmis.github.io/",
+      "name": "David Mis",
+      "alternateName": ["S. David Mis", "S David Mis"]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ProfilePage",
+      "mainEntity": {
+        "@type": "Person",
+        "name": "David Mis",
+        "alternateName": ["S. David Mis", "S David Mis"],
+        "jobTitle": "PhD Student, Computational and Applied Mathematics",
+        "affiliation": {
+          "@type": "CollegeOrUniversity",
+          "name": "Rice University",
+          "sameAs": "https://www.rice.edu/"
+        },
+        "email": "mailto:david.mis@rice.edu",
+        "url": "https://davidmis.github.io/",
+        "image": "https://davidmis.github.io/files/david-small.jpg",
+        "sameAs": [
+          "https://profiles.rice.edu/student/david-mis",
+          "https://scholar.google.com/citations?user=FeRZjBAAAAAJ",
+          "https://openreview.net/profile?id=~S_David_Mis1",
+          "https://github.com/davidmis",
+          "https://www.linkedin.com/in/sdavidmis"
+        ]
+      }
+    }
+    </script>
 ---
 
 :::{#heading}
