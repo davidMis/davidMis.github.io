@@ -14,45 +14,47 @@ about:
   image: files/david-small.jpg
   image-shape: round
   image-width: 185px
-include-in-header:
-  text: |
-    <!-- Put this on the HOME page once -->
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "WebSite",
-      "url": "https://davidmis.github.io/",
-      "name": "David Mis",
-      "alternateName": ["S. David Mis", "S David Mis"]
-    }
-    </script>
-    <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "ProfilePage",
-      "mainEntity": {
-        "@type": "Person",
-        "name": "David Mis",
-        "alternateName": ["S. David Mis", "S David Mis"],
-        "jobTitle": "PhD Student, Computational and Applied Mathematics",
-        "affiliation": {
-          "@type": "CollegeOrUniversity",
-          "name": "Rice University",
-          "sameAs": "https://www.rice.edu/"
-        },
-        "email": "mailto:david.mis@rice.edu",
-        "url": "https://davidmis.github.io/",
-        "image": "https://davidmis.github.io/files/david-small.jpg",
-        "sameAs": [
-          "https://profiles.rice.edu/student/david-mis",
-          "https://scholar.google.com/citations?user=FeRZjBAAAAAJ",
-          "https://openreview.net/profile?id=~S_David_Mis1",
-          "https://github.com/davidmis",
-          "https://www.linkedin.com/in/sdavidmis"
-        ]
-      }
-    }
-    </script>
+format:
+  html:
+    include-in-header:
+        text: |
+          <!-- Put this on the HOME page once -->
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "WebSite",
+            "url": "https://davidmis.github.io/",
+            "name": "David Mis",
+            "alternateName": ["S. David Mis", "S David Mis"]
+          }
+          </script>
+          <script type="application/ld+json">
+          {
+            "@context": "https://schema.org",
+            "@type": "ProfilePage",
+            "mainEntity": {
+              "@type": "Person",
+              "name": "David Mis",
+              "alternateName": ["S. David Mis", "S David Mis"],
+              "jobTitle": "PhD Student, Computational and Applied Mathematics",
+              "affiliation": {
+                "@type": "CollegeOrUniversity",
+                "name": "Rice University",
+                "sameAs": "https://www.rice.edu/"
+              },
+              "email": "mailto:david.mis@rice.edu",
+              "url": "https://davidmis.github.io/",
+              "image": "https://davidmis.github.io/files/david-small.jpg",
+              "sameAs": [
+                "https://profiles.rice.edu/student/david-mis",
+                "https://scholar.google.com/citations?user=FeRZjBAAAAAJ",
+                "https://openreview.net/profile?id=~S_David_Mis1",
+                "https://github.com/davidmis",
+                "https://www.linkedin.com/in/sdavidmis"
+              ]
+            }
+          }
+          </script>
 ---
 
 :::{#heading}
@@ -126,6 +128,11 @@ Master's thesis
 [[link](TODO)]   -->
 
 ## Talks
+
+**Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking**  
+[SD Mis]{.underline}, MV de Hoop  
+*Geo-Mathematical Imaging Group Partners Meeting*  
+September 2025, Rice University
 
 **Diffeomorphism invariant measure flows in Bayes Hilbert spaces**  
 [SD Mis]{.underline}, MV de Hoop  
