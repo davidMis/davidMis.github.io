@@ -66,15 +66,14 @@ format:
 TODO
 -->
 
-<!-- 
-I am looking forward to **Inverse Days** in Helsinki, Finland, from December 16--18, 2025, where I will be giving a talk.
-
-I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) titled *Measure flows for Inverse Problems and Machine Learning* at the **SIAM Conference on Uncertainty Quantification** to be held in Minneapolis from March 22--26, 2026. -->
-
 ::: {.content-visible when-format="html"}
 ## News
 
 I will be attending [*CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025*](https://www.math.uh.edu/cbms-amml/) at the University of Houston, December 8--12, where I'll present a poster regarding our recent work on measure flows in Bayes Hilbert spaces.
+
+I am looking forward to **Inverse Days** in Helsinki, Finland, from December 16--18, 2025, where I will be giving a talk.
+
+I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) titled *Measure flows for Inverse Problems and Machine Learning* ([MS35](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87134), [MS52](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87135), and [MS68](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87136)) at the **SIAM Conference on Uncertainty Quantification** to be held in Minneapolis from March 22--26, 2026.
 :::
 
 ## Education
