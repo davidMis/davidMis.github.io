@@ -1,3 +1,6 @@
+# Generate CV sections from structured data
+python3 generate-cv.py > cv-sections-generated.qmd
+
 quarto render index.qmd --to pdf
 mv docs/index.pdf files/DavidMis-CV.pdf
 quarto render

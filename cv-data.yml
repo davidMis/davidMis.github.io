@@ -1,0 +1,136 @@
+education:
+  - institution: Rice University
+    degree: PhD
+    field: Computational and Applied Mathematics
+    location: Houston, TX, USA
+    dates: 2021--present
+    advisor: Dr. Maarten de Hoop
+    
+  - institution: University of Texas
+    degree: MS
+    field: Computer Science
+    location: Austin, TX, USA
+    dates: 2019--2021
+    
+  - institution: University of Texas
+    degrees:
+      - degree: BS
+        field: Computer Science
+      - degree: BS
+        field: Mathematics
+      - degree: BA
+        field: Economics and Chinese Language
+    location: Austin, TX, USA
+    dates: 2009--2014
+
+publications:
+  conference:
+    - title: "Semialgebraic Neural Networks: From roots to representations"
+      authors: [SD Mis, M Lassas, MV de Hoop]
+      venue: "International Conference on Learned Representations (ICLR) 2025"
+      date: May 2025
+      location: Singapore
+      links:
+        pdf: "https://www.arxiv.org/pdf/2501.01564"
+        arxiv: "https://www.arxiv.org/abs/2501.01564"
+        conference: "https://iclr.cc/virtual/2025/poster/27662"
+        
+  journal:
+    - title: "Reduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes"
+      authors: [TE Keller, SD Mis, KE Jia, CO Wilke]
+      venue: "Genome Biology and Evolution"
+      volume: "Volume 4, Issue 2"
+      pages: "Pages 80--88"
+      date: 2012
+      links:
+        pdf: "https://academic.oup.com/gbe/article-pdf/4/2/80/17915831/evr129.pdf"
+        link: "https://academic.oup.com/gbe/article/4/2/80/555289"
+
+talks:
+  - title: "Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking"
+    authors: [SD Mis, MV de Hoop]
+    venue: "Geo-Mathematical Imaging Group Partners Meeting"
+    location: "Rice University"
+    date: Sep 2025
+    
+  - title: "Diffeomorphism invariant measure flows in Bayes Hilbert spaces"
+    authors: [SD Mis, MV de Hoop]
+    venue: "Applied Inverse Problems (AIP) 2025"
+    location: "Rio de Janeiro, Brazil"
+    date: Jul 2025
+    
+  - title: "Semialgebraic Neural Networks: From roots to representations"
+    authors: [SD Mis, M Lassas, MV de Hoop]
+    venue: "Inverse Days"
+    location: "Oulu, Finland"
+    date: Dec 2024
+    
+  - title: "Semialgebraic Neural Networks"
+    venue: "Geo-Mathematical Imaging Group Partners Meeting"
+    location: "Rice University"
+    date: Nov 2024
+    
+  - title: "Matrix-Recurrent and Semialgebraic Neural Networks"
+    venue: "Geo-Mathematical Imaging Group Partners Meeting"
+    location: "Rice University"
+    date: May 2023
+
+experience:
+  teaching:
+    - institution: Rice University
+      position: Grader / Teaching Assistant
+      location: Houston, TX
+      dates: 2021--present
+      details:
+        - "Grader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis"
+        - "Graduate Teaching Assistant: Matrix Analysis"
+        
+    - institution: The Art of Problem Solving
+      position: Grader / Teaching Assistant
+      location: Virtual
+      dates: 2020--2021
+      details: Various high school mathematics courses
+      
+    - institution: University of Texas
+      position: Undergraduate Teaching Assistant
+      location: Austin, TX
+      dates: 2011--2012
+      details: "Courses: Computational Biology, Statistics for Biologists"
+      
+  research:
+    - institution: Rice University
+      position: PhD Research Assistant
+      location: Houston, TX
+      dates: 2022--present
+      details: Geo-Mathematical Imaging Group (GMIG)
+      
+    - institution: University of Texas
+      position: Undergraduate Research Assistant
+      location: Austin, TX
+      dates: 2010--2012
+      details: Lab of Dr. Clause O. Wilke, Professor of Integrative Biology
+      
+  software:
+    - company: David Mis Software LLC
+      position: Software Developer
+      location: Houston, TX
+      dates: 2018--2021
+      details: Independent software consultant
+      
+    - company: Unaliwear
+      position: Cloud Engineer
+      location: Austin, TX
+      dates: 2015--2018
+      details: Principal architect of AWS infrastructure for consumer IOT device
+      
+    - company: Hewlett Packard
+      position: Software Developer
+      location: Austin, TX
+      dates: 2014--2015
+      details: Enterprise software development
+      
+  mentorship:
+    - position: "Rice Data2Knowledge Capstone Project Mentor"
+      details: "NASA Orbital Transfer Project"
+      location: "Rice University"
+      dates: Spring 2025

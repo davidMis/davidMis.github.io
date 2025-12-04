@@ -1,0 +1,254 @@
+
+::: {.content-visible when-format="html"}
+## Education
+
+**Rice University**  
+PhD, *Computational and Applied Mathematics*  
+2021--present, Houston, TX, USA  
+Advised by Dr. Maarten de Hoop
+
+
+**University of Texas**  
+MS, *Computer Science*  
+2019--2021, Austin, TX, USA  
+
+
+**University of Texas**  
+BS, *Computer Science*  
+BS, *Mathematics*  
+BA, *Economics and Chinese Language*  
+2009--2014, Austin, TX, USA  
+
+
+
+:::
+
+
+::: {.content-visible when-format="html"}
+## Publications
+
+### Conference papers
+
+**Semialgebraic Neural Networks: From roots to representations**  
+[SD Mis]{.underline}, M Lassas, MV de Hoop  
+*International Conference on Learned Representations (ICLR) 2025*  
+May 2025, Singapore  
+[[pdf](https://www.arxiv.org/pdf/2501.01564)] [[arxiv](https://www.arxiv.org/abs/2501.01564)] [[conference](https://iclr.cc/virtual/2025/poster/27662)]
+
+
+
+### Journal papers
+
+**Reduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes**  
+TE Keller, [SD Mis]{.underline}, KE Jia, CO Wilke  
+*Genome Biology and Evolution, Volume 4, Issue 2, Pages 80--88*  
+[[pdf](https://academic.oup.com/gbe/article-pdf/4/2/80/17915831/evr129.pdf)] [[link](https://academic.oup.com/gbe/article/4/2/80/555289)]
+
+
+
+:::
+
+
+::: {.content-visible when-format="html"}
+## Talks
+
+**Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking**  
+[SD Mis]{.underline}, MV de Hoop  
+*Geo-Mathematical Imaging Group Partners Meeting*  
+Sep 2025, Rice University
+
+**Diffeomorphism invariant measure flows in Bayes Hilbert spaces**  
+[SD Mis]{.underline}, MV de Hoop  
+*Applied Inverse Problems (AIP) 2025*  
+Jul 2025, Rio de Janeiro, Brazil
+
+**Semialgebraic Neural Networks: From roots to representations**  
+[SD Mis]{.underline}, M Lassas, MV de Hoop  
+*Inverse Days*  
+Dec 2024, Oulu, Finland
+
+**Semialgebraic Neural Networks**  
+*Geo-Mathematical Imaging Group Partners Meeting*  
+Nov 2024, Rice University
+
+**Matrix-Recurrent and Semialgebraic Neural Networks**  
+*Geo-Mathematical Imaging Group Partners Meeting*  
+May 2023, Rice University
+
+
+:::
+
+
+::: {.content-visible when-format="html"}
+### Teaching
+
+**Rice University**  
+*Grader / Teaching Assistant*  
+2021--present, Houston, TX  
+Grader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis  
+Graduate Teaching Assistant: Matrix Analysis  
+
+
+**The Art of Problem Solving**  
+*Grader / Teaching Assistant*  
+2020--2021, Virtual  
+Various high school mathematics courses
+
+
+**University of Texas**  
+*Undergraduate Teaching Assistant*  
+2011--2012, Austin, TX  
+Courses: Computational Biology, Statistics for Biologists
+
+
+
+:::
+
+
+::: {.content-visible when-format="html"}
+### Research
+
+**Rice University**  
+*PhD Research Assistant*  
+2022--present, Houston, TX  
+Geo-Mathematical Imaging Group (GMIG)
+
+
+**University of Texas**  
+*Undergraduate Research Assistant*  
+2010--2012, Austin, TX  
+Lab of Dr. Clause O. Wilke, Professor of Integrative Biology
+
+
+
+:::
+
+
+::: {.content-visible when-format="html"}
+### Software Development
+
+**David Mis Software LLC**  
+*Software Developer*  
+2018--2021, Houston, TX  
+Independent software consultant
+
+
+**Unaliwear**  
+*Cloud Engineer*  
+2015--2018, Austin, TX  
+Principal architect of AWS infrastructure for consumer IOT device
+
+
+**Hewlett Packard**  
+*Software Developer*  
+2014--2015, Austin, TX  
+Enterprise software development
+
+
+
+:::
+
+
+::: {.content-visible when-format="html"}
+### Mentorship
+
+**Rice Data2Knowledge Capstone Project Mentor**  
+Spring 2025, Rice University  
+NASA Orbital Transfer Project
+
+
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+## Education
+
+\cventry{\textbf{Rice University} \\ PhD, \textit{Computational and Applied Mathematics} \\ Houston, TX, USA \\ Advised by Dr. Maarten de Hoop}{2021--present}{}
+
+\cventry{\textbf{University of Texas} \\ MS, \textit{Computer Science} \\ Austin, TX, USA}{2019--2021}{}
+
+\cventry{\textbf{University of Texas} \\ BS, \textit{Computer Science} \\ BS, \textit{Mathematics} \\ BA, \textit{Economics and Chinese Language} \\ Austin, TX, USA}{2009--2014}{}
+
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+## Publications
+
+### Conference papers
+
+\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations} \\ \ul{SD Mis}, M Lassas, MV de Hoop \\ \textit{International Conference on Learned Representations (ICLR) 2025} \\ Singapore}{May 2025}{}
+
+
+### Journal papers
+
+\cventry{\textbf{Reduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes} \\ TE Keller, \ul{SD Mis}, KE Jia, CO Wilke \\ \textit{Genome Biology and Evolution, Volume 4, Issue 2, Pages 80--88}}{2012}{}
+
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+## Talks
+
+\cventry{\textbf{Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking} \\ \ul{SD Mis}, MV de Hoop \\ \textit{Geo-Mathematical Imaging Group Partners Meeting, Rice University}}{Sep 2025}{}
+
+\cventry{\textbf{Diffeomorphism invariant measure flows in Bayes Hilbert spaces} \\ \ul{SD Mis}, MV de Hoop \\ \textit{Applied Inverse Problems (AIP) 2025, Rio de Janeiro, Brazil}}{Jul 2025}{}
+
+\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations} \\ \ul{SD Mis}, M Lassas, MV de Hoop \\ \textit{Inverse Days, Oulu, Finland}}{Dec 2024}{}
+
+\cventry{\textbf{Semialgebraic Neural Networks} \\ \textit{Geo-Mathematical Imaging Group Partners Meeting, Rice University}}{Nov 2024}{}
+
+\cventry{\textbf{Matrix-Recurrent and Semialgebraic Neural Networks} \\ \textit{Geo-Mathematical Imaging Group Partners Meeting, Rice University}}{May 2023}{}
+
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+### Teaching
+
+\cventry{\textbf{Rice University} \\ \textit{Grader / Teaching Assistant} \\ Houston, TX \\ Grader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis \\ Graduate Teaching Assistant: Matrix Analysis}{2021--present}{}
+
+\cventry{\textbf{The Art of Problem Solving} \\ \textit{Grader / Teaching Assistant} \\ Virtual \\ Various high school mathematics courses}{2020--2021}{}
+
+\cventry{\textbf{University of Texas} \\ \textit{Undergraduate Teaching Assistant} \\ Austin, TX \\ Courses: Computational Biology, Statistics for Biologists}{2011--2012}{}
+
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+### Research
+
+\cventry{\textbf{Rice University} \\ \textit{PhD Research Assistant} \\ Houston, TX \\ Geo-Mathematical Imaging Group (GMIG)}{2022--present}{}
+
+\cventry{\textbf{University of Texas} \\ \textit{Undergraduate Research Assistant} \\ Austin, TX \\ Lab of Dr. Clause O. Wilke, Professor of Integrative Biology}{2010--2012}{}
+
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+### Software Development
+
+\cventry{\textbf{David Mis Software LLC} \\ \textit{Software Developer} \\ Houston, TX \\ Independent software consultant}{2018--2021}{}
+
+\cventry{\textbf{Unaliwear} \\ \textit{Cloud Engineer} \\ Austin, TX \\ Principal architect of AWS infrastructure for consumer IOT device}{2015--2018}{}
+
+\cventry{\textbf{Hewlett Packard} \\ \textit{Software Developer} \\ Austin, TX \\ Enterprise software development}{2014--2015}{}
+
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+### Mentorship
+
+\cventry{\textbf{Rice Data2Knowledge Capstone Project Mentor} \\ Rice University \\ NASA Orbital Transfer Project}{Spring 2025}{}
+
+
+:::
+

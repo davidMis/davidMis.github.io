@@ -1,12 +1,18 @@
 ---
 title: David Mis
-subtitle: PhD Student
+subtitle: PhD Candidate
 description: | 
   Department of Computational Applied Mathematics and Operations Research<br>
   Rice University<br>
   Houston, TX, USA<br>
 
   [[[david.mis@rice.edu]{.underline}](mailto:david.mis@rice.edu)] &ensp; [[[CV]{.underline}](./files/DavidMis-CV.pdf)] &ensp; [[[GitHub]{.underline}](https://github.com/davidmis)] &ensp; [[[Google Scholar]{.underline}](https://scholar.google.com/citations?user=FeRZjBAAAAAJ&hl=en)]
+pdf-description: |
+  Department of Computational Applied Mathematics and Operations Research
+
+  Rice University, Houston, TX, USA
+  
+  \href{mailto:david.mis@rice.edu}{david.mis@rice.edu} $\cdot$ \href{https://github.com/davidmis}{GitHub} $\cdot$ \href{https://scholar.google.com/citations?user=FeRZjBAAAAAJ\&hl=en}{Google Scholar}
 navbar: false
 about:
   id: heading
@@ -15,6 +21,13 @@ about:
   image-shape: round
   image-width: 185px
 format:
+  pdf:
+    template: template.tex
+    keep-tex: false
+    pdf-engine: pdflatex
+    include-in-header:
+      text: |
+        \usepackage{microtype}
   html:
     include-in-header:
         text: |
@@ -76,145 +89,4 @@ I am looking forward to **Inverse Days** in Helsinki, Finland, from December 16-
 I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) titled *Measure flows for Inverse Problems and Machine Learning* ([MS35](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87134), [MS52](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87135), and [MS68](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87136)) at the **SIAM Conference on Uncertainty Quantification** to be held in Minneapolis from March 22--26, 2026.
 :::
 
-## Education
-
-**Rice University**  
-PhD, *Computational and Applied Mathematics*  
-2021--present, Houston, TX, USA  
-Advised by Dr. Maarten de Hoop
-
-**University of Texas**   
-MS, *Computer Science*  
-2019--2021, Austin, TX, USA
-
-**University of Texas**   
-BS, *Computer Science*  
-BS, *Mathematics*  
-BA, *Economics and Chinese Language*    
-2009--2014, Austin, TX, USA
-
-## Publications
-
-<!-- ### Preprints -->
-
-<!-- --- -->
-
-### Conference papers
-
-**Semialgebraic Neural Networks: From roots to representations**  
-[SD Mis]{.underline}, M Lassas, MV de Hoop  
-*International Conference on Learned Representations (ICLR) 2025*  
-May 2025, Singapore  
-[[pdf](https://www.arxiv.org/pdf/2501.01564)]
-[[arxiv](https://www.arxiv.org/abs/2501.01564)]
-[[conference](https://iclr.cc/virtual/2025/poster/27662)]
-
-
-### Journal papers
-
-**Reduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes**  
-TE Keller, [SD Mis]{.underline}, KE Jia, CO Wilke  
-*Genome Biology and Evolution*, Volume 4, Issue 2, 2012, Pages 80–88  
-[[pdf](https://academic.oup.com/gbe/article-pdf/4/2/80/17915831/evr129.pdf)]
-[[link](https://academic.oup.com/gbe/article/4/2/80/555289)]
-
-<!--### Theses
-
-**Semialgebraic Neural Networks: From roots to representations**  
-[SD Mis]{.underline}  
-Master's thesis  
-[[pdf](TODO)] 
-[[link](TODO)]   -->
-
-## Talks
-
-**Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking**  
-[SD Mis]{.underline}, MV de Hoop  
-*Geo-Mathematical Imaging Group Partners Meeting*  
-September 2025, Rice University
-
-**Diffeomorphism invariant measure flows in Bayes Hilbert spaces**  
-[SD Mis]{.underline}, MV de Hoop  
-*Applied Inverse Problems (AIP) 2025*  
-July 2025, Rio de Janeiro, Brazil  
-
-**Semialgebraic Neural Networks: From roots to representations**  
-[SD Mis]{.underline}, M Lassas, MV de Hoop  
-*Inverse Days*  
-December 2024, Oulu, Finland
-
-**Semialgebraic Neural Networks**  
-*Geo-Mathematical Imaging Group Partners Meeting*  
-November 2024, Rice University
-
-**Matrix-Recurrent and Semialgebraic Neural Networks**  
-*Geo-Mathematical Imaging Group Partners Meeting*  
-May 2023, Rice University
-
-## Professional Experience
-
-### Teaching
-
-**Rice University**  
-*Grader / Teaching Assistant*  
-2021--present, Houston, TX  
-Grader:  
-    [Differential Equations for Science and Engineering]{.lst}  
-    [Partial Differential Equations I]{.lst}   
-    [Applied Functional Analysis]{.lst}  
-    [Numerical Analysis]{.lst}  
-Graduate Teaching Assistant:  
-    [Matrix Analysis]{.lst}
-
-**The Art of Problem Solving**  
-*Grader / Teaching Assistant*  
-2020--2021, Virtual  
-Various high school mathematics courses.
-
-**University of Texas**  
-*Undergraduate Teaching Assistant*  
-2011--2012, Austin, TX  
-Courses:  
-    [Computational Biology]{.lst}  
-    [Statistics for Biologists]{.lst} 
-
----
-
-### Research
-
-**Rice University**  
-*PhD Research Assistant*  
-2022--present, Houston, TX  
-Geo-Mathematical Imaging Group (GMIG).
-
-**University of Texas**  
-*Undergraduate Research Assistant*  
-2010--2012, Austin, TX  
-Lab of Dr. Clause O. Wilke, Professor of Integrative Biology.
-
----
-
-### Software Development
-
-**David Mis Software LLC**  
-*Software Developer*  
-2018--2021, Houston, TX  
-Independent software consultant. 
-
-**Unaliwear**  
-*Cloud Engineer*  
-2015--2018, Austin, TX  
-Principal architect of AWS infrastructure for consumer IOT device.
-
-**Hewlett Packard**  
-*Software Developer*  
-2014--2015, Austin, TX  
-Enterprise software development.
-
----
-
-### Mentorship
-
-**Rice Data2Knowledge Capstone Project Mentor**  
-NASA Orbital Transfer Project  
-Spring 2025
+{{< include cv-sections-generated.qmd >}}

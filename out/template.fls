@@ -1,0 +1,10 @@
+PWD /Users/david/Projects/davidMis.github.io
+INPUT /usr/local/texlive/2024/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT /Users/david/Projects/davidMis.github.io/template.tex
+OUTPUT out/template.log
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+INPUT /usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty

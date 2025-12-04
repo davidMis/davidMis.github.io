@@ -1,0 +1,19 @@
+# Fdb version 4
+["pdflatex"] 1764803118.18768 "/Users/david/Projects/davidMis.github.io/template.tex" "out/template.pdf" "template" 1764803118.3293 2
+  "$documentclass$.cls" 0 -1 0 ""
+  "/Users/david/Projects/davidMis.github.io/template.tex" 1764803117.76495 7959 d16069766e4a6761220980ba01302eca ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty" 1705871765 220920 fd3cbb5f1a2bc9b8f451b8b7d8171264 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/url/url.sty" 1388531844 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
+  "/usr/local/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty" 1700082560 55487 80a65caedd3722f4c20a14a69e785d8f ""
+  "/usr/local/texlive/2024/texmf-dist/tex/xelatex/xecjk/xeCJK.sty" 1659735237 183137 ed372550124703b2b73cbcc0b47cb20f ""
+  "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1708706663 41649 5d6ae549fbbcb850a863f69aa41f3d10 ""
+  "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1729565249 8221428 5c1b3a1cb9b5892e83c251f39f0998ef ""
+  "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
+  "out/$documentclass$.cls" 0 -1 0 ""
+  "out/template.aux" 1764803118.18727 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "template.tex" 1764803117.76495 7959 d16069766e4a6761220980ba01302eca ""
+  (generated)
+  "out/template.aux"
+  "out/template.log"
+  "out/template.pdf"
+  (rewritten before read)
