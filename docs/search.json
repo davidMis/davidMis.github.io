@@ -32,49 +32,14 @@
     "href": "cv-sections-generated.html#talks",
     "title": "",
     "section": "Talks",
-    "text": "Talks\nMeasure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking\nSD Mis, MV de Hoop\nGeo-Mathematical Imaging Group Partners Meeting\nSep 2025, Rice University\nDiffeomorphism invariant measure flows in Bayes Hilbert spaces\nSD Mis, MV de Hoop\nApplied Inverse Problems (AIP) 2025\nJul 2025, Rio de Janeiro, Brazil\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nInverse Days\nDec 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNov 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\nGraduate Teaching Assistant: Matrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses: Computational Biology, Statistics for Biologists\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG)\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nSpring 2025, Rice University\nNASA Orbital Transfer Project"
+    "text": "Talks\nMeasure flows in Bayes Hilbert spaces\nInverse Days\nDec 2025, Helsinki, Finland\n(Poster) Measure flows in Bayes Hilbert spaces: Particle methods and sampling\nCBMS Conference\nDec 2025, University of Houston\nMeasure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking\nGeo-Mathematical Imaging Group Partners Meeting\nSep 2025, Rice University\nDiffeomorphism invariant measure flows in Bayes Hilbert spaces\nApplied Inverse Problems (AIP) 2025\nJul 2025, Rio de Janeiro, Brazil\nSemialgebraic Neural Networks: From roots to representations\nInverse Days\nDec 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNov 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University"
   },
   {
-    "objectID": "CV-README.html",
-    "href": "CV-README.html",
-    "title": "CV Data Management System",
-    "section": "",
-    "text": "This project uses a data-driven approach to manage CV content, allowing you to maintain your CV data in one place (cv-data.yml) and automatically generate format-specific renderings for both HTML and PDF.\n\n\n\ncv-data.yml - Single source of truth for all CV content (education, publications, talks, experience)\ngenerate-cv.py - Python script that reads YAML and generates Quarto-compatible markdown\ncv-sections-generated.qmd - Auto-generated file (don’t edit directly!)\nindex.qmd - Main document that includes the generated content\ntemplate.tex - LaTeX template for professional PDF formatting\nbuild.sh - Build script that regenerates everything\n\n\n\n\n\nEdit cv-data.yml - All your CV data is stored here in structured YAML format\nRun build.sh - Automatically:\n\nRuns generate-cv.py to create format-specific renderings\nRenders PDF with dates on the right side\nRenders HTML website\nCopies files to docs/\n\n\n\n\n\nTo add or update content:\n\nEdit cv-data.yml (add a publication, talk, job, etc.)\nRun sh build.sh\nDone! Both HTML and PDF are updated\n\n\n\n\n✓ Single source of truth - Edit data once, not twice\n✓ Format-specific rendering - HTML gets links, PDF gets right-aligned dates\n✓ Consistent formatting - Automatic styling for all entries\n✓ Easy maintenance - No duplicate content to keep in sync\n✓ Type safety - Structured YAML prevents formatting errors\n\n\n\npublications:\n  conference:\n    - title: \"Your Paper Title\"\n      authors: [SD Mis, Coauthor Name]\n      venue: \"Conference Name 2026\"\n      date: Jun 2026\n      location: \"City, Country\"\n      links:\n        pdf: \"https://example.com/paper.pdf\"\n        arxiv: \"https://arxiv.org/abs/2345.67890\"\nThen run sh build.sh and both your website and PDF CV are updated!"
-  },
-  {
-    "objectID": "CV-README.html#files",
-    "href": "CV-README.html#files",
-    "title": "CV Data Management System",
-    "section": "",
-    "text": "cv-data.yml - Single source of truth for all CV content (education, publications, talks, experience)\ngenerate-cv.py - Python script that reads YAML and generates Quarto-compatible markdown\ncv-sections-generated.qmd - Auto-generated file (don’t edit directly!)\nindex.qmd - Main document that includes the generated content\ntemplate.tex - LaTeX template for professional PDF formatting\nbuild.sh - Build script that regenerates everything"
-  },
-  {
-    "objectID": "CV-README.html#how-it-works",
-    "href": "CV-README.html#how-it-works",
-    "title": "CV Data Management System",
-    "section": "",
-    "text": "Edit cv-data.yml - All your CV data is stored here in structured YAML format\nRun build.sh - Automatically:\n\nRuns generate-cv.py to create format-specific renderings\nRenders PDF with dates on the right side\nRenders HTML website\nCopies files to docs/"
-  },
-  {
-    "objectID": "CV-README.html#editing-your-cv",
-    "href": "CV-README.html#editing-your-cv",
-    "title": "CV Data Management System",
-    "section": "",
-    "text": "To add or update content:\n\nEdit cv-data.yml (add a publication, talk, job, etc.)\nRun sh build.sh\nDone! Both HTML and PDF are updated"
-  },
-  {
-    "objectID": "CV-README.html#benefits",
-    "href": "CV-README.html#benefits",
-    "title": "CV Data Management System",
-    "section": "",
-    "text": "✓ Single source of truth - Edit data once, not twice\n✓ Format-specific rendering - HTML gets links, PDF gets right-aligned dates\n✓ Consistent formatting - Automatic styling for all entries\n✓ Easy maintenance - No duplicate content to keep in sync\n✓ Type safety - Structured YAML prevents formatting errors"
-  },
-  {
-    "objectID": "CV-README.html#example-adding-a-new-publication",
-    "href": "CV-README.html#example-adding-a-new-publication",
-    "title": "CV Data Management System",
-    "section": "",
-    "text": "publications:\n  conference:\n    - title: \"Your Paper Title\"\n      authors: [SD Mis, Coauthor Name]\n      venue: \"Conference Name 2026\"\n      date: Jun 2026\n      location: \"City, Country\"\n      links:\n        pdf: \"https://example.com/paper.pdf\"\n        arxiv: \"https://arxiv.org/abs/2345.67890\"\nThen run sh build.sh and both your website and PDF CV are updated!"
+    "objectID": "cv-sections-generated.html#professional-experience",
+    "href": "cv-sections-generated.html#professional-experience",
+    "title": "",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\nGraduate Teaching Assistant: Matrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses: Computational Biology, Statistics for Biologists\n\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG)\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology\n\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development\n\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nSpring 2025, Rice University\nNASA Orbital Transfer Project\n\n\n\nProfessional Activities\nMinisymposium Organizer\nMeasure Flows for Inverse Problems and Machine Learning\nMarch 2026, SIAM UQ ’26"
   },
   {
     "objectID": "index.html#news",
@@ -102,6 +67,13 @@
     "href": "index.html#talks",
     "title": "David Mis",
     "section": "Talks",
-    "text": "Talks\nMeasure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking\nSD Mis, MV de Hoop\nGeo-Mathematical Imaging Group Partners Meeting\nSep 2025, Rice University\nDiffeomorphism invariant measure flows in Bayes Hilbert spaces\nSD Mis, MV de Hoop\nApplied Inverse Problems (AIP) 2025\nJul 2025, Rio de Janeiro, Brazil\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nInverse Days\nDec 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNov 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\nGraduate Teaching Assistant: Matrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses: Computational Biology, Statistics for Biologists\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG)\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nSpring 2025, Rice University\nNASA Orbital Transfer Project"
+    "text": "Talks\nMeasure flows in Bayes Hilbert spaces\nInverse Days\nDec 2025, Helsinki, Finland\n(Poster) Measure flows in Bayes Hilbert spaces: Particle methods and sampling\nCBMS Conference\nDec 2025, University of Houston\nMeasure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking\nGeo-Mathematical Imaging Group Partners Meeting\nSep 2025, Rice University\nDiffeomorphism invariant measure flows in Bayes Hilbert spaces\nApplied Inverse Problems (AIP) 2025\nJul 2025, Rio de Janeiro, Brazil\nSemialgebraic Neural Networks: From roots to representations\nInverse Days\nDec 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNov 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "David Mis",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\nGraduate Teaching Assistant: Matrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses: Computational Biology, Statistics for Biologists\n\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG)\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology\n\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development\n\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nSpring 2025, Rice University\nNASA Orbital Transfer Project\n\n\n\nProfessional Activities\nMinisymposium Organizer\nMeasure Flows for Inverse Problems and Machine Learning\nMarch 2026, SIAM UQ ’26"
   }
 ]

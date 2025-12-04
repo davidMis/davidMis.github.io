@@ -138,6 +138,11 @@ def render_experience(data, format_type):
             output.append(f"**{inst}**  ")
             if 'position' in item and (item.get('institution') or item.get('company')):
                 output.append(f"*{item['position']}*  ")
+            
+            # Add venue if present
+            if 'venue' in item:
+                output.append(f"*{item['venue']}*  ")
+            
             output.append(f"{item['dates']}, {item['location']}  ")
             
             details = item.get('details', '')
@@ -152,6 +157,10 @@ def render_experience(data, format_type):
             
             if 'position' in item and (item.get('institution') or item.get('company')):
                 content += f" \\\\ \\textit{{{item['position']}}}"
+            
+            # Add venue if present (before location)
+            if 'venue' in item:
+                content += f" \\\\ \\textit{{{item['venue']}}}"
             
             content += f" \\\\ {item['location']} \\\\ "
             
@@ -189,23 +198,29 @@ def main():
         print("\n:::\n")
         
         print(f"\n::: {{.content-visible when-format=\"{format_type}\"}}")
+        print("## Professional Experience\n")
         print("### Teaching\n")
         print(render_experience(cv_data['experience']['teaching'], format_type))
-        print("\n:::\n")
         
-        print(f"\n::: {{.content-visible when-format=\"{format_type}\"}}")
+        if format_type == "html":
+            print("\n---\n")
         print("### Research\n")
         print(render_experience(cv_data['experience']['research'], format_type))
-        print("\n:::\n")
         
-        print(f"\n::: {{.content-visible when-format=\"{format_type}\"}}")
+        if format_type == "html":
+            print("\n---\n")
         print("### Software Development\n")
         print(render_experience(cv_data['experience']['software'], format_type))
-        print("\n:::\n")
         
-        print(f"\n::: {{.content-visible when-format=\"{format_type}\"}}")
+        if format_type == "html":
+            print("\n---\n")
         print("### Mentorship\n")
         print(render_experience(cv_data['experience']['mentorship'], format_type))
+        
+        if format_type == "html":
+            print("\n---\n")
+        print("### Professional Activities\n")
+        print(render_experience(cv_data['experience']['professional'], format_type))
         print("\n:::\n")
 
 if __name__ == "__main__":

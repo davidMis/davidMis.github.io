@@ -52,18 +52,23 @@ TE Keller, [SD Mis]{.underline}, KE Jia, CO Wilke
 ::: {.content-visible when-format="html"}
 ## Talks
 
+**Measure flows in Bayes Hilbert spaces**  
+*Inverse Days*  
+Dec 2025, Helsinki, Finland
+
+**(Poster) Measure flows in Bayes Hilbert spaces: Particle methods and sampling**  
+*CBMS Conference*  
+Dec 2025, University of Houston
+
 **Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking**  
-[SD Mis]{.underline}, MV de Hoop  
 *Geo-Mathematical Imaging Group Partners Meeting*  
 Sep 2025, Rice University
 
 **Diffeomorphism invariant measure flows in Bayes Hilbert spaces**  
-[SD Mis]{.underline}, MV de Hoop  
 *Applied Inverse Problems (AIP) 2025*  
 Jul 2025, Rio de Janeiro, Brazil
 
 **Semialgebraic Neural Networks: From roots to representations**  
-[SD Mis]{.underline}, M Lassas, MV de Hoop  
 *Inverse Days*  
 Dec 2024, Oulu, Finland
 
@@ -80,6 +85,8 @@ May 2023, Rice University
 
 
 ::: {.content-visible when-format="html"}
+## Professional Experience
+
 ### Teaching
 
 **Rice University**  
@@ -102,10 +109,8 @@ Courses: Computational Biology, Statistics for Biologists
 
 
 
-:::
+---
 
-
-::: {.content-visible when-format="html"}
 ### Research
 
 **Rice University**  
@@ -121,10 +126,8 @@ Lab of Dr. Clause O. Wilke, Professor of Integrative Biology
 
 
 
-:::
+---
 
-
-::: {.content-visible when-format="html"}
 ### Software Development
 
 **David Mis Software LLC**  
@@ -146,15 +149,24 @@ Enterprise software development
 
 
 
-:::
+---
 
-
-::: {.content-visible when-format="html"}
 ### Mentorship
 
 **Rice Data2Knowledge Capstone Project Mentor**  
 Spring 2025, Rice University  
 NASA Orbital Transfer Project
+
+
+
+---
+
+### Professional Activities
+
+**Minisymposium Organizer**  
+*Measure Flows for Inverse Problems and Machine Learning*  
+March 2026, SIAM UQ '26  
+
 
 
 
@@ -193,11 +205,15 @@ NASA Orbital Transfer Project
 ::: {.content-visible when-format="pdf"}
 ## Talks
 
-\cventry{\textbf{Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking} \\ \ul{SD Mis}, MV de Hoop \\ \textit{Geo-Mathematical Imaging Group Partners Meeting, Rice University}}{Sep 2025}{}
+\cventry{\textbf{Measure flows in Bayes Hilbert spaces} \\ \textit{Inverse Days, Helsinki, Finland}}{Dec 2025}{}
 
-\cventry{\textbf{Diffeomorphism invariant measure flows in Bayes Hilbert spaces} \\ \ul{SD Mis}, MV de Hoop \\ \textit{Applied Inverse Problems (AIP) 2025, Rio de Janeiro, Brazil}}{Jul 2025}{}
+\cventry{\textbf{(Poster) Measure flows in Bayes Hilbert spaces: Particle methods and sampling} \\ \textit{CBMS Conference, University of Houston}}{Dec 2025}{}
 
-\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations} \\ \ul{SD Mis}, M Lassas, MV de Hoop \\ \textit{Inverse Days, Oulu, Finland}}{Dec 2024}{}
+\cventry{\textbf{Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking} \\ \textit{Geo-Mathematical Imaging Group Partners Meeting, Rice University}}{Sep 2025}{}
+
+\cventry{\textbf{Diffeomorphism invariant measure flows in Bayes Hilbert spaces} \\ \textit{Applied Inverse Problems (AIP) 2025, Rio de Janeiro, Brazil}}{Jul 2025}{}
+
+\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations} \\ \textit{Inverse Days, Oulu, Finland}}{Dec 2024}{}
 
 \cventry{\textbf{Semialgebraic Neural Networks} \\ \textit{Geo-Mathematical Imaging Group Partners Meeting, Rice University}}{Nov 2024}{}
 
@@ -208,6 +224,8 @@ NASA Orbital Transfer Project
 
 
 ::: {.content-visible when-format="pdf"}
+## Professional Experience
+
 ### Teaching
 
 \cventry{\textbf{Rice University} \\ \textit{Grader / Teaching Assistant} \\ Houston, TX \\ Grader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis \\ Graduate Teaching Assistant: Matrix Analysis}{2021--present}{}
@@ -216,22 +234,12 @@ NASA Orbital Transfer Project
 
 \cventry{\textbf{University of Texas} \\ \textit{Undergraduate Teaching Assistant} \\ Austin, TX \\ Courses: Computational Biology, Statistics for Biologists}{2011--2012}{}
 
-
-:::
-
-
-::: {.content-visible when-format="pdf"}
 ### Research
 
 \cventry{\textbf{Rice University} \\ \textit{PhD Research Assistant} \\ Houston, TX \\ Geo-Mathematical Imaging Group (GMIG)}{2022--present}{}
 
 \cventry{\textbf{University of Texas} \\ \textit{Undergraduate Research Assistant} \\ Austin, TX \\ Lab of Dr. Clause O. Wilke, Professor of Integrative Biology}{2010--2012}{}
 
-
-:::
-
-
-::: {.content-visible when-format="pdf"}
 ### Software Development
 
 \cventry{\textbf{David Mis Software LLC} \\ \textit{Software Developer} \\ Houston, TX \\ Independent software consultant}{2018--2021}{}
@@ -240,14 +248,13 @@ NASA Orbital Transfer Project
 
 \cventry{\textbf{Hewlett Packard} \\ \textit{Software Developer} \\ Austin, TX \\ Enterprise software development}{2014--2015}{}
 
-
-:::
-
-
-::: {.content-visible when-format="pdf"}
 ### Mentorship
 
 \cventry{\textbf{Rice Data2Knowledge Capstone Project Mentor} \\ Rice University \\ NASA Orbital Transfer Project}{Spring 2025}{}
+
+### Professional Activities
+
+\cventry{\textbf{Minisymposium Organizer} \\ \textit{Measure Flows for Inverse Problems and Machine Learning} \\ SIAM UQ '26 \\ }{March 2026}{}
 
 
 :::

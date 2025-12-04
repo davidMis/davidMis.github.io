@@ -47,20 +47,33 @@ publications:
         link: "https://academic.oup.com/gbe/article/4/2/80/555289"
 
 talks:
+
+  - title: "Measure flows in Bayes Hilbert spaces"
+    # authors: [SD Mis, T Teolis, MV de Hoop]
+    venue: "Inverse Days"
+    location: "Helsinki, Finland"
+    date: Dec 2025
+
+  - title: "(Poster) Measure flows in Bayes Hilbert spaces: Particle methods and sampling"
+    # authors: [SD Mis, MV de Hoop]
+    venue: "CBMS Conference"
+    location: "University of Houston"
+    date: Dec 2025
+
   - title: "Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking"
-    authors: [SD Mis, MV de Hoop]
+    # authors: [SD Mis, MV de Hoop]
     venue: "Geo-Mathematical Imaging Group Partners Meeting"
     location: "Rice University"
     date: Sep 2025
     
   - title: "Diffeomorphism invariant measure flows in Bayes Hilbert spaces"
-    authors: [SD Mis, MV de Hoop]
+    # authors: [SD Mis, MV de Hoop]
     venue: "Applied Inverse Problems (AIP) 2025"
     location: "Rio de Janeiro, Brazil"
     date: Jul 2025
     
   - title: "Semialgebraic Neural Networks: From roots to representations"
-    authors: [SD Mis, M Lassas, MV de Hoop]
+    # authors: [SD Mis, M Lassas, MV de Hoop]
     venue: "Inverse Days"
     location: "Oulu, Finland"
     date: Dec 2024
@@ -134,3 +147,9 @@ experience:
       details: "NASA Orbital Transfer Project"
       location: "Rice University"
       dates: Spring 2025
+      
+  professional:
+    - position: "Minisymposium Organizer"
+      venue: "Measure Flows for Inverse Problems and Machine Learning"
+      location: "SIAM UQ '26"
+      dates: March 2026

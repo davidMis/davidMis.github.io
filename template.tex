@@ -47,7 +47,7 @@ $endif$
 % Better section formatting
 \usepackage{titlesec}
 \titleformat{\section}
-  {\large\bfseries}
+  {\Large\bfseries}
   {}
   {0em}
   {}
@@ -55,11 +55,19 @@ $endif$
 \titlespacing{\section}{0pt}{12pt plus 4pt minus 2pt}{6pt plus 2pt minus 2pt}
 
 \titleformat{\subsection}
-  {\normalsize\bfseries}
+  {\Large\bfseries}
   {}
   {0em}
   {}
-\titlespacing{\subsection}{0pt}{10pt plus 3pt minus 2pt}{4pt plus 1pt minus 1pt}
+  [\titlerule]
+\titlespacing{\subsection}{0pt}{12pt plus 4pt minus 2pt}{10pt plus 2pt minus 2pt}
+
+\titleformat{\subsubsection}
+  {\Large\bfseries}
+  {}
+  {0em}
+  {}
+\titlespacing{\subsubsection}{0pt}{10pt plus 3pt minus 2pt}{4pt plus 1pt minus 1pt}
 
 % Graphics
 \usepackage{graphicx}
@@ -129,7 +137,7 @@ $endfor$
   
   \noindent #3
   
-  \vspace{0.5em}
+  \vspace{1em}
 }
 
 % Custom title formatting

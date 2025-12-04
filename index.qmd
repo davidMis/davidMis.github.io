@@ -23,7 +23,7 @@ about:
 format:
   pdf:
     template: template.tex
-    keep-tex: false
+    keep-tex: true
     pdf-engine: pdflatex
     include-in-header:
       text: |
