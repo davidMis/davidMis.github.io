@@ -31,7 +31,7 @@ BA, *Economics and Chinese Language*
 
 **Semialgebraic Neural Networks: From roots to representations**  
 [SD Mis]{.underline}, M Lassas, MV de Hoop  
-*International Conference on Learned Representations (ICLR) 2025*  
+*International Conference on Learning Representations (ICLR) 2025*  
 May 2025, Singapore  
 [[pdf](https://www.arxiv.org/pdf/2501.01564)] [[arxiv](https://www.arxiv.org/abs/2501.01564)] [[conference](https://iclr.cc/virtual/2025/poster/27662)]
 
@@ -191,7 +191,7 @@ March 2026, SIAM UQ '26
 
 ### Conference papers
 
-\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations} \\ \ul{SD Mis}, M Lassas, MV de Hoop \\ \textit{International Conference on Learned Representations (ICLR) 2025} \\ Singapore}{May 2025}{}
+\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations} \\ \ul{SD Mis}, M Lassas, MV de Hoop \\ \textit{International Conference on Learning Representations (ICLR) 2025} \\ Singapore}{May 2025}{}
 
 
 ### Journal papers

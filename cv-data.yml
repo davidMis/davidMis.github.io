@@ -27,7 +27,7 @@ publications:
   conference:
     - title: "Semialgebraic Neural Networks: From roots to representations"
       authors: [SD Mis, M Lassas, MV de Hoop]
-      venue: "International Conference on Learned Representations (ICLR) 2025"
+      venue: "International Conference on Learning Representations (ICLR) 2025"
       date: May 2025
       location: Singapore
       links:
