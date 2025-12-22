@@ -1,10 +1,45 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
+    "objectID": "index.html#upcoming",
+    "href": "index.html#upcoming",
+    "title": "David Mis",
+    "section": "Upcoming",
+    "text": "Upcoming\nI am organizing a minisymposium with Nick Boffi titled Measure flows for Inverse Problems and Machine Learning (MS35, MS52, and MS68) at the SIAM Conference on Uncertainty Quantification to be held in Minneapolis from March 22–26, 2026."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "David Mis",
+    "section": "News",
+    "text": "News\n\nDecember 19, 2025\nI just returned from Inverse Days in Helsinki, Finland. I also attended last year, and both times it has been the highlight of my year. Read more\n\n\nDecember 12, 2025\nI had the pleasure of attending the CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025 at the University of Houston. Read more\nMore news"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "David Mis",
+    "section": "Education",
+    "text": "Education\nRice University\nPhD, Computational and Applied Mathematics\n2021–present, Houston, TX, USA\nAdvised by Dr. Maarten de Hoop\nUniversity of Texas\nMS, Computer Science\n2019–2021, Austin, TX, USA\nUniversity of Texas\nBS, Computer Science\nBS, Mathematics\nBA, Economics and Chinese Language\n2009–2014, Austin, TX, USA"
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "David Mis",
+    "section": "Publications",
+    "text": "Publications\n\nConference papers\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nInternational Conference on Learning Representations (ICLR) 2025\nMay 2025, Singapore\n[pdf] [arxiv] [conference]\n\n\nJournal papers\nReduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes\nTE Keller, SD Mis, KE Jia, CO Wilke\nGenome Biology and Evolution, Volume 4, Issue 2, Pages 80–88\n[pdf] [link]"
+  },
+  {
+    "objectID": "index.html#talks",
+    "href": "index.html#talks",
+    "title": "David Mis",
+    "section": "Talks",
+    "text": "Talks\nMeasure flows in Bayes Hilbert spaces\nInverse Days\nDec 2025, Helsinki, Finland\n(Poster) Measure flows in Bayes Hilbert spaces: Particle methods and sampling\nCBMS Conference\nDec 2025, University of Houston\nMeasure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking\nGeo-Mathematical Imaging Group Partners Meeting\nSep 2025, Rice University\nDiffeomorphism invariant measure flows in Bayes Hilbert spaces\nApplied Inverse Problems (AIP) 2025\nJul 2025, Rio de Janeiro, Brazil\nSemialgebraic Neural Networks: From roots to representations\nInverse Days\nDec 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNov 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University"
+  },
+  {
+    "objectID": "index.html#professional-experience",
+    "href": "index.html#professional-experience",
+    "title": "David Mis",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\nGraduate Teaching Assistant: Matrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses: Computational Biology, Statistics for Biologists\n\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG)\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology\n\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development\n\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nSpring 2025, Rice University\nNASA Orbital Transfer Project\n\n\n\nProfessional Activities\nMinisymposium Organizer\nMeasure Flows for Inverse Problems and Machine Learning\nMarch 2026, SIAM UQ ’26"
   },
   {
     "objectID": "cv-sections-generated.html",
@@ -42,38 +77,10 @@
     "text": "Professional Experience\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\nGraduate Teaching Assistant: Matrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses: Computational Biology, Statistics for Biologists\n\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG)\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology\n\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development\n\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nSpring 2025, Rice University\nNASA Orbital Transfer Project\n\n\n\nProfessional Activities\nMinisymposium Organizer\nMeasure Flows for Inverse Problems and Machine Learning\nMarch 2026, SIAM UQ ’26"
   },
   {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
+    "objectID": "news.html#news",
+    "href": "news.html#news",
     "title": "David Mis",
     "section": "News",
-    "text": "News\nI will be attending CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025 at the University of Houston, December 8–12, where I’ll present a poster regarding our recent work on measure flows in Bayes Hilbert spaces.\nI am looking forward to Inverse Days in Helsinki, Finland, from December 16–18, 2025, where I will be giving a talk.\nI am organizing a minisymposium with Nick Boffi titled Measure flows for Inverse Problems and Machine Learning (MS35, MS52, and MS68) at the SIAM Conference on Uncertainty Quantification to be held in Minneapolis from March 22–26, 2026."
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "David Mis",
-    "section": "Education",
-    "text": "Education\nRice University\nPhD, Computational and Applied Mathematics\n2021–present, Houston, TX, USA\nAdvised by Dr. Maarten de Hoop\nUniversity of Texas\nMS, Computer Science\n2019–2021, Austin, TX, USA\nUniversity of Texas\nBS, Computer Science\nBS, Mathematics\nBA, Economics and Chinese Language\n2009–2014, Austin, TX, USA"
-  },
-  {
-    "objectID": "index.html#publications",
-    "href": "index.html#publications",
-    "title": "David Mis",
-    "section": "Publications",
-    "text": "Publications\n\nConference papers\nSemialgebraic Neural Networks: From roots to representations\nSD Mis, M Lassas, MV de Hoop\nInternational Conference on Learning Representations (ICLR) 2025\nMay 2025, Singapore\n[pdf] [arxiv] [conference]\n\n\nJournal papers\nReduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes\nTE Keller, SD Mis, KE Jia, CO Wilke\nGenome Biology and Evolution, Volume 4, Issue 2, Pages 80–88\n[pdf] [link]"
-  },
-  {
-    "objectID": "index.html#talks",
-    "href": "index.html#talks",
-    "title": "David Mis",
-    "section": "Talks",
-    "text": "Talks\nMeasure flows in Bayes Hilbert spaces\nInverse Days\nDec 2025, Helsinki, Finland\n(Poster) Measure flows in Bayes Hilbert spaces: Particle methods and sampling\nCBMS Conference\nDec 2025, University of Houston\nMeasure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking\nGeo-Mathematical Imaging Group Partners Meeting\nSep 2025, Rice University\nDiffeomorphism invariant measure flows in Bayes Hilbert spaces\nApplied Inverse Problems (AIP) 2025\nJul 2025, Rio de Janeiro, Brazil\nSemialgebraic Neural Networks: From roots to representations\nInverse Days\nDec 2024, Oulu, Finland\nSemialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nNov 2024, Rice University\nMatrix-Recurrent and Semialgebraic Neural Networks\nGeo-Mathematical Imaging Group Partners Meeting\nMay 2023, Rice University"
-  },
-  {
-    "objectID": "index.html#professional-experience",
-    "href": "index.html#professional-experience",
-    "title": "David Mis",
-    "section": "Professional Experience",
-    "text": "Professional Experience\n\nTeaching\nRice University\nGrader / Teaching Assistant\n2021–present, Houston, TX\nGrader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\nGraduate Teaching Assistant: Matrix Analysis\nThe Art of Problem Solving\nGrader / Teaching Assistant\n2020–2021, Virtual\nVarious high school mathematics courses\nUniversity of Texas\nUndergraduate Teaching Assistant\n2011–2012, Austin, TX\nCourses: Computational Biology, Statistics for Biologists\n\n\n\nResearch\nRice University\nPhD Research Assistant\n2022–present, Houston, TX\nGeo-Mathematical Imaging Group (GMIG)\nUniversity of Texas\nUndergraduate Research Assistant\n2010–2012, Austin, TX\nLab of Dr. Clause O. Wilke, Professor of Integrative Biology\n\n\n\nSoftware Development\nDavid Mis Software LLC\nSoftware Developer\n2018–2021, Houston, TX\nIndependent software consultant\nUnaliwear\nCloud Engineer\n2015–2018, Austin, TX\nPrincipal architect of AWS infrastructure for consumer IOT device\nHewlett Packard\nSoftware Developer\n2014–2015, Austin, TX\nEnterprise software development\n\n\n\nMentorship\nRice Data2Knowledge Capstone Project Mentor\nSpring 2025, Rice University\nNASA Orbital Transfer Project\n\n\n\nProfessional Activities\nMinisymposium Organizer\nMeasure Flows for Inverse Problems and Machine Learning\nMarch 2026, SIAM UQ ’26"
+    "text": "News\n\nDecember 19, 2025\nI just returned from Inverse Days in Helsinki, Finland. This was my second time attending, and both times it has been the highlight of my year.\n\n\nDecember 12, 2025\nI had the pleasure of attending the CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025 at the University of Houston. The highlight of the conference was a 10 lecture series by Lars Ruthotto on machine learning and AI. Lars is an excellent presenter, and I will use his slides as a inspiration for my own talks. The lecture material and recordings are publically available.\n I presented a poster on our ongoing work regarding measure flows in Bayes Hilbert spaces. For this poster, I had some time to experiment with an unorthodox “darkmode” color scheme. It received positive feedback. The printer did not reproduce the colors exactly as I intended, but I am happy with the result. The poster was made with Beamer using the Gemini template; you can find my color scheme here. If you are thinking of using it for your own posters, pease keep in mind the warnings at the bottom of the README."
   }
 ]

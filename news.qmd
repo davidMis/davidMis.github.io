@@ -61,6 +61,13 @@ format:
             }
           }
           </script>
+          <style>
+            /* Float poster image to right on large screens, full-width on small */
+            img.float-right-lg { display: block; height: auto; max-width: 100%; }
+            @media (min-width: 992px) {
+              img.float-right-lg { float: right; width: 45%; max-width: 45%; margin-left: 1rem; margin-bottom: 0.5rem; }
+            }
+          </style>
   pdf:
     template: template.tex
     keep-tex: true
@@ -73,28 +80,18 @@ format:
 :::{#heading}
 :::
 
-<!-- 
-## Research interests
-
-TODO
--->
-
-::: {.content-visible when-format="html"}
-## Upcoming
-
-I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) titled *Measure flows for Inverse Problems and Machine Learning* ([MS35](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87134), [MS52](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87135), and [MS68](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87136)) at the **SIAM Conference on Uncertainty Quantification** to be held in Minneapolis from March 22--26, 2026.
-:::
 
 ::: {.content-visible when-format="html"}
 ## News
 
 ### December 19, 2025 {#dec-19-2025}
-I just returned from [*Inverse Days*](https://fips.fi/inverse-days-2025/) in Helsinki, Finland. I also attended last year, and both times it has been the highlight of my year. [Read more](news.html#dec-19-2025)
+I just returned from [*Inverse Days*](https://fips.fi/inverse-days-2025/) in Helsinki, Finland. This was my second time attending, and both times it has been the highlight of my year.
 
-### December 12, 2025
-I had the pleasure of attending the [*CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025*](https://www.math.uh.edu/cbms-amml/) at the University of Houston. [Read more](news.html#dec-12-2025)
 
-[More news](news.html)
+### December 12, 2025 {#dec-12-2025}
+I had the pleasure of attending the [*CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025*](https://www.math.uh.edu/cbms-amml/) at the University of Houston. The highlight of the conference was a 10 lecture series by [Lars Ruthotto](https://www.math.emory.edu/~lruthot/) on machine learning and AI. Lars is an excellent presenter, and I will use his slides as a inspiration for my own talks. The [lecture material](https://www.math.emory.edu/~lruthot/workshops/computational-math-ai-2025/) and [recordings](https://www.youtube.com/playlist?list=PLPre92Pl4X2A5xj5-nNWU1r1pAuwykI1V) are publically available.
+
+![](files/CBMS2025.jpeg){.float-right-lg alt="CBMS 2025 poster"}
+I presented a poster on our ongoing work regarding measure flows in Bayes Hilbert spaces. For this poster, I had some time to experiment with an unorthodox "darkmode" color scheme. It received positive feedback. The printer did not reproduce the colors exactly as I intended, but I am happy with the result. The poster was made with Beamer using the [Gemini template](https://github.com/anishathalye/gemini); you can find my color scheme [here](https://github.com/davidMis/gemini-darkmode). If you are thinking of using it for your own posters, pease keep in mind the warnings at the bottom of the README.
+
 :::
-
-{{< include cv-sections-generated.qmd >}}
