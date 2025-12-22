@@ -88,10 +88,10 @@ I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) ti
 ::: {.content-visible when-format="html"}
 ## News
 
-### December 19, 2025 {#dec-19-2025}
+### December 19, 2025 --- Inverse Days {#dec-19-2025}
 I just returned from [*Inverse Days*](https://fips.fi/inverse-days-2025/) in Helsinki, Finland. I also attended last year, and both times it has been the highlight of my year. [Read more](news.html#dec-19-2025)
 
-### December 12, 2025
+### December 12, 2025 --- CBMS {#dec-12-2025}
 I had the pleasure of attending the [*CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025*](https://www.math.uh.edu/cbms-amml/) at the University of Houston. [Read more](news.html#dec-12-2025)
 
 [More news](news.html)
