@@ -94,4 +94,6 @@ I had the pleasure of attending the [*CBMS Conference on Research at the Interfa
 ![](files/CBMS2025.jpeg){.float-right-lg alt="CBMS 2025 poster"}
 I presented a poster on our ongoing work regarding measure flows in Bayes Hilbert spaces. For this poster, I had some time to experiment with an unorthodox "darkmode" color scheme. It received positive feedback. The printer did not reproduce the colors exactly as I intended, but I am happy with the result. The poster was made with Beamer using the [Gemini template](https://github.com/anishathalye/gemini); you can find my color scheme [here](https://github.com/davidMis/gemini-darkmode). If you are thinking of using it for your own posters, pease keep in mind the warnings at the bottom of the README.
 
+I expect the preprint for this work to be available on ArXiV by February 2026.
+
 :::
