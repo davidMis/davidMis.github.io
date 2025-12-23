@@ -80,13 +80,11 @@ TODO
 -->
 
 ::: {.content-visible when-format="html"}
-## Upcoming
+## News
+
+### Upcoming --- SIAM UQ
 
 I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) titled *Measure flows for Inverse Problems and Machine Learning* ([MS35](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87134), [MS52](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87135), and [MS68](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87136)) at the **SIAM Conference on Uncertainty Quantification** to be held in Minneapolis from March 22--26, 2026.
-:::
-
-::: {.content-visible when-format="html"}
-## News
 
 ### December 19, 2025 --- Inverse Days {#dec-19-2025}
 I just returned from [*Inverse Days*](https://fips.fi/inverse-days-2025/) in Helsinki, Finland. I also attended last year, and both times it has been the highlight of my year. [Read more](news.html#dec-19-2025)

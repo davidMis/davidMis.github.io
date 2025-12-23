@@ -13,11 +13,12 @@ website:
 format:
   html:
     theme: [simplex, custom.scss]
-    fontsize: 0.95em
-    linestretch: 1.4
+    fontsize: 1.05em
+    linestretch: 1.5
     mainfont: "sans-serif"
     toc: true
     toc-title: "<br><br><br>"
     link-external-newwindow: false
     minimal: true
     code-tools: false
+    format-links: false

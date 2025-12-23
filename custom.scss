@@ -4,7 +4,6 @@ $blue:    #0451A5 !default;
 $primary:       $blue !default;
 $navbar-bg: #e8e8e8 !default;
 
-
 .quarto-about-solana .about-image {
     border: 1px solid #727475;
     background-color: #ffffff;
@@ -12,4 +11,37 @@ $navbar-bg: #e8e8e8 !default;
 
 .lst {
     padding-left: 30pt;
+}
+
+
+/* Float poster image to right on large screens, full-width on small */
+img.float-right-lg { display: block; height: auto; max-width: 100%; }
+@media (min-width: 992px) {
+    figure {
+        float: right; 
+        width: 45%; 
+        max-width: 45%; 
+        margin-left: 1rem; 
+        margin-bottom: 0.5rem; 
+    }
+}
+
+// Don't underline links
+a em {
+    text-decoration: none;
+}
+
+a  {
+    text-decoration: none !important;
+}
+
+// A little more space; fonts inspired by NPR.com
+p {
+    letter-spacing: .02em;
+    color: #333;
+    line-height: 1.5;
+}
+
+h3 {
+    clear: both;
 }

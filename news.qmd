@@ -61,13 +61,6 @@ format:
             }
           }
           </script>
-          <style>
-            /* Float poster image to right on large screens, full-width on small */
-            img.float-right-lg { display: block; height: auto; max-width: 100%; }
-            @media (min-width: 992px) {
-              img.float-right-lg { float: right; width: 45%; max-width: 45%; margin-left: 1rem; margin-bottom: 0.5rem; }
-            }
-          </style>
   pdf:
     template: template.tex
     keep-tex: true
@@ -84,24 +77,55 @@ format:
 ::: {.content-visible when-format="html"}
 ## News
 
+### Upcoming --- SIAM UQ
+
+I am organizing a minisymposium with [Nick Boffi](https://nmboffi.github.io/) titled *Measure flows for Inverse Problems and Machine Learning* ([MS35](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87134), [MS52](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87135), and [MS68](https://meetings.siam.org/sess/dsp_programsess.cfm?SESSIONCODE=87136)) at the **SIAM Conference on Uncertainty Quantification** to be held in Minneapolis from March 22--26, 2026.
+
 ### December 19, 2025 --- Inverse Days {#dec-19-2025}
 I just returned from [*Inverse Days*](https://fips.fi/inverse-days-2025/) in Helsinki, Finland. This was my second time attending, and both times it has been the highlight of my year.
 
-With the help of my European friends and collaborators, particularly my mentor Matti Lassas, I was able to map out my research program and goals for 2026. These projects will explore new connections between disparate areas of applied mathematics, and I am excited to share them this year. 
+With the help of my European friends and collaborators, particularly my friend and mentor [Matti Lassas](https://www.mv.helsinki.fi/home/lassas/), I was able to map out my research program and goals for 2026. These projects will explore new connections between disparate areas of applied mathematics, and I am excited to share them this year. 
 
-Also, it was great to spend time with many people I had only met briefly before, and also to finally meet in person several people who I had only known through their name and work.
+Just like last year, it was great to spend time with many people I had only met briefly before, and also to finally meet in person several people who I had only known through their name and work.
 
 Somehow, I forgot to take even a single picture in Helsinki, so my memories will have to suffice.
 
 
 ### December 12, 2025 --- CBMS {#dec-12-2025}
-I had the pleasure of attending the [*CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025*](https://www.math.uh.edu/cbms-amml/) at the University of Houston. The highlight of the conference was a 10 lecture series by [Lars Ruthotto](https://www.math.emory.edu/~lruthot/) on machine learning and AI. Lars is an excellent presenter, and I will use his slides as a inspiration for my own talks. The [lecture material](https://www.math.emory.edu/~lruthot/workshops/computational-math-ai-2025/) and [recordings](https://www.youtube.com/playlist?list=PLPre92Pl4X2A5xj5-nNWU1r1pAuwykI1V) are publically available.
+I had the pleasure of attending the [*CBMS Conference on Research at the Interface of Applied Mathematics and Machine Learning (AMML) 2025*](https://www.math.uh.edu/cbms-amml/) at the University of Houston. The highlight of the conference was a 10 lecture series by [Lars Ruthotto](https://www.math.emory.edu/~lruthot/) on machine learning and AI. Lars is an excellent presenter, and these lectures set a new standard for an introduction to machine learning and applied math. The [lecture material](https://www.math.emory.edu/~lruthot/workshops/computational-math-ai-2025/) and [recordings](https://www.youtube.com/playlist?list=PLPre92Pl4X2A5xj5-nNWU1r1pAuwykI1V) are publically available.
 
-![](files/CBMS2025.jpeg){.float-right-lg alt="CBMS 2025 poster"}
-I presented a poster on our ongoing work regarding measure flows in Bayes Hilbert spaces. For this poster, I had some time to experiment with an unorthodox "darkmode" color scheme. It received positive feedback. The printer did not reproduce the colors exactly as I intended, but I am happy with the result.
+![Poster with an experimental color scheme. The image in the upper left shows tranformation of a Gaussian to a more complicated posterior distribution through a Wasserstein gradient flow.](files/CBMS2025.jpeg){.float-right-lg alt="CBMS 2025 poster"}
+
+Additionally, I presented a poster on our ongoing work regarding measure flows in Bayes Hilbert spaces. For this poster, I had some time to experiment with an unorthodox "darkmode" color scheme. It received positive feedback. The printer did not reproduce the colors exactly as I intended, but I am happy with the result.
 
 The poster was made with Beamer using the [Gemini template](https://github.com/anishathalye/gemini); you can find my color scheme [here](https://github.com/davidMis/gemini-darkmode). If you are thinking of using it for your own posters, pease keep in mind the warnings at the bottom of the README.
 
 I expect the preprint for this work to be available on ArXiV by February 2026.
+
+### October 23, 2025 --- PhD proposal {#oct-23-2025}
+
+I defended my PhD thesis proposal. Many thanks to my committee Drs. [Beatrice Rivière](https://compm.rice.edu/people-2/beatrice-riviere/), [Anthony Várilly-Alvarado](https://math.rice.edu/~av15/), and [Maarten V. de Hoop](https://maartendehoop.rice.edu/).
+ 
+### Aug 2, 2025 --- AIP {#aug-2-2025}
+
+![Cristo Redentor seen from the roof of our hotel in Botafogo.](files/cristo_redentor.jpeg){.float-right-lg alt="Cristo Redentor"}
+
+I have just returned from the [*Applied Inverse Problems*](https://eventos.fgv.br/aip2025) conference in beautiful Rio de Janeiro. Many thanks to [Matti Lassas](https://www.mv.helsinki.fi/home/lassas/), [Giovanni Covi](https://sites.google.com/view/giovanni-covi-maths) and [Siiri Rautio](https://sites.google.com/view/siirirautio) for organizing the minisymposium and inviting me to speak in their minisymposium *XAIP: Explainable algorithms for inverse problems*. The 12 speakers approached this challenging area from many different directions. It is abundently clear that creating interpretable and explainable approaches for scientific machine learning will continue to be one of the most important and difficult challenges in applied mathematics of our time.
+
+### April 30, 2025 --- ICLR
+I have returned from [*ICLR*](https://iclr.cc/Conferences/2025) in Singapore, where [Matti Lassas](https://www.mv.helsinki.fi/home/lassas/) and I presented our poster on [Semialgebraic Neural Networks](https://arxiv.org/abs/2501.01564).
+
+I loved Singapore, and I enjoyed Kaya toast multiple times every day, probably to the point of missing out on other delicious foods. But the highlight of the trip was spending time with Matti and Takashi Furuya, who presented multiple papers on [measure-valued tranformers](https://arxiv.org/abs/2408.01367) and [neural operators](https://arxiv.org/abs/2410.02151).
+
+
+### December 14, 2024 --- Inverse Days {#dec-14-2024}
+![The friendly Toripolliisi in Oulu town center.](files/oulu.jpeg){.float-right-lg alt="Toripolliisi"}
+
+I had a fantastic time at [*Inverse Days*](https://fips.fi/inverse-days-2024/) in Oulu, Finland, where I presented our work on [Semialgebraic Neural Networks](https://arxiv.org/abs/2501.01564). This was my first opportunity to travel internationally for an academic conference, and it was an absolute joy. I have the dubious distinction of being technically undefeated in the sport of walrus wrestling, with a record of 0--0 and 1 withdrawl due to a comical amount of bleeding.
+
+Conference extracurriculars aside, it was great to finally meet mathematicians whose work I have read and learned from, including [Mikko Salo](https://users.jyu.fi/~salomi/) and [Samuli Siltanen](https://siltanen-research.net/). Also, the young researchers I met made me feel welcome beyond anything I expected. I hope this was just the first of many visits to see my friends and collaborators in Finland. 
+
+### December 3, 2024 --- Masters defense
+I successfully defended my masters thesis. Many thanks to my committee Drs. [Jesse Chan](https://sites.google.com/view/jessechan/home), [Anthony Várilly-Alvarado](https://math.rice.edu/~av15/), and [Maarten V. de Hoop](https://maartendehoop.rice.edu/).
 
 :::
