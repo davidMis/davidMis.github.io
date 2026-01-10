@@ -71,6 +71,7 @@ format:
 ---
 
 :::{#heading}
+My research focuses on scientific machine learning and inverse problems, with an emphasis on developing measure-theoretic techniques.
 :::
 
 <!-- 
