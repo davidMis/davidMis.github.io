@@ -173,6 +173,14 @@ March 2026, SIAM UQ '26
 :::
 
 
+::: {.content-visible when-format="html"}
+## Awards
+
+- SIAM UQ 2026 student travel award
+
+:::
+
+
 ::: {.content-visible when-format="pdf"}
 ## Education
 
@@ -256,6 +264,14 @@ March 2026, SIAM UQ '26
 
 \cventry{\textbf{Minisymposium Organizer} \\ \textit{Measure Flows for Inverse Problems and Machine Learning} \\ SIAM UQ '26 \\ }{March 2026}{}
 
+
+:::
+
+
+::: {.content-visible when-format="pdf"}
+## Awards
+
+\cventry{SIAM UQ 2026 student travel award}{}{}
 
 :::
 

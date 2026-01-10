@@ -175,6 +175,19 @@ def render_experience(data, format_type):
     
     return "\n".join(output)
 
+def render_awards(data, format_type):
+    """Render awards section."""
+    output = []
+    
+    if format_type == "html":
+        for award in data:
+            output.append(f"- {award}")
+    else:  # pdf
+        for award in data:
+            output.append(f"\\cventry{{{award}}}{{}}{{}}") 
+    
+    return "\n".join(output)
+
 def main():
     # Read CV data
     with open('cv-data.yml', 'r') as f:
@@ -222,6 +235,13 @@ def main():
         print("### Professional Activities\n")
         print(render_experience(cv_data['experience']['professional'], format_type))
         print("\n:::\n")
+        
+        # Render Awards section
+        if 'awards' in cv_data and cv_data['awards']:
+            print(f"\n::: {{.content-visible when-format=\"{format_type}\"}}")
+            print("## Awards\n")
+            print(render_awards(cv_data['awards'], format_type))
+            print("\n:::\n")
 
 if __name__ == "__main__":
     main()
