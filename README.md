@@ -1,46 +1,27 @@
-# CV Data Management System
+# davidmis.github.io
 
-This project uses a data-driven approach to manage CV content, allowing you to maintain your CV data in one place (`cv-data.yml`) and automatically generate format-specific renderings for both HTML and PDF.
+Static personal website for GitHub Pages.
 
-## Files
+## Editing
 
-- **`cv-data.yml`** - Single source of truth for all CV content (education, publications, talks, experience)
-- **`generate-cv.py`** - Python script that reads YAML and generates Quarto-compatible markdown
-- **`cv-sections-generated.qmd`** - Auto-generated file (don't edit directly!)
-- **`index.qmd`** - Main document that includes the generated content
-- **`template.tex`** - LaTeX template for professional PDF formatting
-- **`build.sh`** - Build script that regenerates everything
+The published site lives in `docs/`:
 
-## How It Works
+- `docs/index.html` - home page
+- `docs/news.html` - news archive
+- `docs/styles.css` - shared styles
+- `docs/files/DavidMis-CV.pdf` - PDF CV
+- `docs/files/` - site images and static assets
 
-1. **Edit cv-data.yml** - All your CV data is stored here in structured YAML format
-2. **Run build.sh** - Automatically:
-   - Runs `generate-cv.py` to create format-specific renderings
-   - Renders PDF
-   - Renders HTML website
-   - Copies files to docs/
+There is no required build step for the website. Edit the HTML and CSS files directly, then commit and push.
 
-## Editing Your CV
+## CV updates
 
-To add or update content:
+The website and CV are intentionally maintained separately. When the CV changes:
 
-1. Edit `cv-data.yml` (add a publication, talk, job, etc.)
-2. Run `sh build.sh`
-3. Done! Both HTML and PDF are updated
+1. Replace `docs/files/DavidMis-CV.pdf`.
+2. Update the selected publications, talks, awards, or background text in `docs/index.html` if needed.
+3. Add any news item to `docs/news.html` and link to it from the homepage when it should be featured.
 
-## Example: Adding a New Publication
+## Legacy Quarto files
 
-```yaml
-publications:
-  conference:
-    - title: "Your Paper Title"
-      authors: [SD Mis, Coauthor Name]
-      venue: "Conference Name 2026"
-      date: Jun 2026
-      location: "City, Country"
-      links:
-        pdf: "https://example.com/paper.pdf"
-        arxiv: "https://arxiv.org/abs/2345.67890"
-```
-
-Then run `sh build.sh` and both your website and PDF CV are updated!
+The old Quarto/YAML CV workflow files are still present for reference. The live site no longer depends on them.
