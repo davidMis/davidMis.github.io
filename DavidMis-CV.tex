@@ -1,0 +1,264 @@
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[margin=0.75in]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{textcomp}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{setspace}
+\usepackage{ragged2e}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage[normalem]{ulem}
+\usepackage{titlesec}
+\usepackage{fancyhdr}
+
+\providecommand{\ul}[1]{\uline{#1}}
+
+\setstretch{1.05}
+\setlength{\parindent}{0pt}
+\setlength{\emergencystretch}{3em}
+\setcounter{secnumdepth}{0}
+
+\definecolor{linkcolor}{RGB}{0,102,204}
+\definecolor{subheadingcolor}{RGB}{55,55,55}
+\hypersetup{
+  pdftitle={David Mis},
+  colorlinks=true,
+  linkcolor=linkcolor,
+  filecolor=linkcolor,
+  citecolor=linkcolor,
+  urlcolor=linkcolor,
+  pdfcreator={LaTeX}
+}
+\urlstyle{same}
+
+\titleformat{\section}
+  {\Large\bfseries}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+\titlespacing{\section}{0pt}{12pt plus 4pt minus 2pt}{10pt plus 2pt minus 2pt}
+
+\titleformat{\subsection}
+  {\Large\bfseries}
+  {}
+  {0em}
+  {}
+  [\titlerule]
+\titlespacing{\subsection}{0pt}{12pt plus 4pt minus 2pt}{10pt plus 2pt minus 2pt}
+
+\titleformat{\subsubsection}
+  {\large\sffamily\bfseries\color{subheadingcolor}}
+  {}
+  {0em}
+  {}
+\titlespacing{\subsubsection}{0pt}{20pt plus 4pt minus 3pt}{5pt plus 1pt minus 1pt}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{\small\thepage}
+
+\newcommand{\cventry}[2]{%
+  \noindent
+  \begin{minipage}[t]{0.75\textwidth}
+    \RaggedRight
+    \hyphenpenalty=10000
+    \exhyphenpenalty=10000
+    #1
+  \end{minipage}%
+  \hfill
+  \begin{minipage}[t]{0.23\textwidth}
+    \raggedleft #2
+  \end{minipage}
+  \par\vspace{1em}
+}
+
+\newcommand{\cvgroupheading}[1]{%
+  {\normalsize\sffamily\bfseries\color{subheadingcolor} #1}\par\vspace{0.45em}
+}
+
+\newcommand{\cvheader}{%
+  \begin{center}
+    {\LARGE\bfseries David Mis}
+
+    \vspace{0.2em}
+
+    {\large PhD Candidate}
+
+    \vspace{0.4em}
+
+    {\normalsize
+    Department of Computational Applied Mathematics and Operations Research\\
+    Rice University, Houston, TX, USA\\
+    \href{mailto:david.mis@rice.edu}{david.mis@rice.edu}
+    $\cdot$ \href{https://github.com/davidmis}{GitHub}
+    $\cdot$ \href{https://scholar.google.com/citations?user=FeRZjBAAAAAJ}{Google Scholar}
+    }
+  \end{center}
+  \vspace{1em}
+}
+
+\begin{document}
+
+\cvheader
+\thispagestyle{fancy}
+
+I study mathematical machine learning for science and inverse problems, with a particular interest in measure-theoretic approaches.
+
+\section{Education}
+
+\cventry{\textbf{Rice University}\\
+PhD, \textit{Computational and Applied Mathematics}\\
+Houston, TX, USA\\
+Advised by Dr. Maarten de Hoop}{2021--present}
+
+\cventry{\textbf{University of Texas}\\
+MS, \textit{Computer Science}\\
+Austin, TX, USA}{2019--2021}
+
+\cventry{\textbf{University of Texas}\\
+BS, \textit{Computer Science}\\
+BS, \textit{Mathematics}\\
+BA, \textit{Economics and Chinese Language}\\
+Austin, TX, USA}{2009--2014}
+
+\section{Publications}
+
+\subsubsection*{Preprints}
+
+\cventry{\textbf{Function graph transformers universally approximate operators between function spaces}\\
+T Furuya, \ul{SD Mis}, I Dokmanić, MV de Hoop, M Lassas\\
+\textit{Preprint, arXiv:2605.17968}\\
+\href{https://arxiv.org/abs/2605.17968}{arXiv} $\cdot$ \href{https://arxiv.org/pdf/2605.17968}{PDF}}{May 2026}
+
+\cventry{\textbf{Forward and inverse problems for measure flows in Bayes Hilbert spaces}\\
+\ul{SD Mis}, MV de Hoop\\
+\textit{Preprint, arXiv:2603.20329}\\
+\href{https://arxiv.org/abs/2603.20329}{arXiv} $\cdot$ \href{https://arxiv.org/pdf/2603.20329}{PDF}}{Mar 2026}
+
+\cventry{\textbf{Hybrid operator learning of wave scattering maps in high-contrast media}\\
+A Balaji, T Teolis, \ul{SD Mis}, JA Lara Benitez, C Wang, MV de Hoop\\
+\textit{Preprint, arXiv:2602.11197}\\
+\href{https://arxiv.org/abs/2602.11197}{arXiv} $\cdot$ \href{https://arxiv.org/pdf/2602.11197}{PDF}}{Jan 2026}
+
+\subsubsection*{Conference papers}
+
+\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations}\\
+\ul{SD Mis}, M Lassas, MV de Hoop\\
+\textit{International Conference on Learning Representations (ICLR) 2025}\\
+Singapore\\
+\href{https://www.arxiv.org/abs/2501.01564}{arXiv} $\cdot$
+\href{https://www.arxiv.org/pdf/2501.01564}{PDF} $\cdot$
+\href{https://iclr.cc/virtual/2025/poster/27662}{Conference}}{May 2025}
+
+\subsubsection*{Journal papers}
+
+\cventry{\textbf{Reduced mRNA secondary-structure stability near the start codon indicates functional genes in prokaryotes}\\
+TE Keller, \ul{SD Mis}, KE Jia, CO Wilke\\
+\textit{Genome Biology and Evolution, Volume 4, Issue 2, Pages 80--88}\\
+\href{https://academic.oup.com/gbe/article/4/2/80/555289}{Journal} $\cdot$
+\href{https://academic.oup.com/gbe/article-pdf/4/2/80/17915831/evr129.pdf}{PDF}}{2012}
+
+\section{Presentations}
+
+\cventry{\textbf{Forward and inverse problems for measure flows in Bayes Hilbert spaces}\\
+\textit{SIAM UQ, Minneapolis, Minnesota}}{Mar 2026}
+
+\cventry{\textbf{Measure flows in Bayes Hilbert spaces}\\
+\textit{Inverse Days, Helsinki, Finland}}{Dec 2025}
+
+\cventry{\textbf{Measure flows in Bayes Hilbert spaces: Particle methods and sampling} (poster)\\
+\textit{CBMS Conference, University of Houston}}{Dec 2025}
+
+\cventry{\textbf{Diffeomorphism invariant measure flows in Bayes Hilbert spaces}\\
+\textit{Applied Inverse Problems (AIP) 2025, Rio de Janeiro, Brazil}}{Jul 2025}
+
+\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations} (poster) \\
+\textit{International Conference on Learning Representations (ICLR) 2025, Singapore}}{May 2025}
+
+\cventry{\textbf{Semialgebraic Neural Networks: From roots to representations}\\
+\textit{Inverse Days, Oulu, Finland}}{Dec 2024}
+
+\vspace{5mm}
+\cvgroupheading{Geo-Mathematical Imaging Group (GMIG) Partners Meetings}
+
+\cventry{\textbf{Function graph transformers universally approximate operators between function spaces}\\Rice University}{May 2026}
+
+\cventry{\textbf{Measure flows in Bayes Hilbert spaces: Diffeomorphism invariance, optimal control, and flocking}\\Rice University}{Sep 2025}
+
+\cventry{\textbf{Semialgebraic Neural Networks}\\Rice University}{Nov 2024}
+
+\cventry{\textbf{Matrix-Recurrent and Semialgebraic Neural Networks}\\Rice University}{May 2023}
+
+\section{Experience}
+
+\subsubsection*{Teaching}
+
+\cventry{\textbf{Rice University}\\
+\textit{Grader / Teaching Assistant}\\
+Houston, TX\\
+Grader: Differential Equations for Science and Engineering, Partial Differential Equations I, Applied Functional Analysis, Numerical Analysis\\
+Graduate Teaching Assistant: Matrix Analysis}{2021--present}
+
+\cventry{\textbf{The Art of Problem Solving}\\
+\textit{Grader / Teaching Assistant}\\
+Virtual\\
+Various high school mathematics courses}{2020--2021}
+
+\cventry{\textbf{University of Texas}\\
+\textit{Undergraduate Teaching Assistant}\\
+Austin, TX\\
+Courses: Computational Biology, Statistics for Biologists}{2011--2012}
+
+\subsubsection*{Research}
+
+\cventry{\textbf{Rice University}\\
+\textit{PhD Research Assistant}\\
+Houston, TX\\
+Geo-Mathematical Imaging Group (GMIG)}{2022--present}
+
+\cventry{\textbf{University of Texas}\\
+\textit{Undergraduate Research Assistant}\\
+Austin, TX\\
+Lab of Dr. Claus O. Wilke, Professor of Integrative Biology}{2010--2012}
+
+\subsubsection*{Software Development}
+
+\cventry{\textbf{David Mis Software LLC}\\
+\textit{Software Developer}\\
+Houston, TX\\
+Independent software consultant}{2018--2021}
+
+\cventry{\textbf{Unaliwear}\\
+\textit{Cloud Engineer}\\
+Austin, TX\\
+Principal architect of AWS infrastructure for consumer IOT device}{2015--2018}
+
+\cventry{\textbf{Hewlett Packard}\\
+\textit{Software Developer}\\
+Austin, TX\\
+Enterprise software development}{2014--2015}
+
+\section{Service and Awards}
+
+\subsubsection*{Professional Activities}
+
+\cventry{\textbf{Minisymposium Organizer}\\
+\textit{Measure Flows for Inverse Problems and Machine Learning}\\
+SIAM UQ '26}{March 2026}
+
+\subsubsection*{Mentorship}
+
+\cventry{\textbf{Rice Data2Knowledge Capstone Project Mentor}\\
+Rice University\\
+NASA Orbital Transfer Project}{Spring 2025}
+
+\subsubsection*{Awards}
+
+\cventry{SIAM UQ 2026 student travel award}{}
+
+\end{document}
